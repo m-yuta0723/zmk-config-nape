@@ -2,8 +2,8 @@ manifest:
   remotes:
     - name: zmkfirmware
       url-base: https://github.com/zmkfirmware
-    - name: menbou0202
-      url-base: https://github.com/menbou0202
+    - name: karbou12
+      url-base: https://github.com/karbou12
     - name: caksoylar
       url-base: https://github.com/caksoylar
     # Additional modules containing boards/shields/custom code can be listed here as well
